@@ -10,3 +10,5 @@ O presente estudo tem como foco principal abordar os acidentes de trânsito no B
 Para esse projeto foi utilizado dados da Polícia Rodoviária Federal e são referentes a ocorrências de trânsitos registrados entre janeiro de 2007 a junho de 2022 nas Rodovias Federais do Brasil.
 Os arquivos foram disponibilizados em formato .CSV, divido por ano e distribuídos em 3 grupos de informações: ocorrência, pessoas e tipo de acidente. 
 Entre os anos de 2007 e 2016 o registro de acidentes era realizado por meio do sistema BR-Brasil. Neste sistema o policial responsável pela ocorrência inseria dados referentes a ocorrência. Em janeiro de 2017 o sistema BR-Brasil foi descontinuado e a PRF passou a utilizar um novo sistema para registar as ocorrências de acidentes de trânsito.
+
+Como forma de melhor apresentação dos dados e compreesão do estudo, foi criado um Dashboard com os dados e insight.
