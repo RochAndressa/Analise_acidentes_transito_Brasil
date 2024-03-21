@@ -1,4 +1,4 @@
-# Analise-dos-Acidentes-de-Transito-no-Brasil
+# Analise_dos_Acidentes_de_Transito_no_Brasil
 Projeto realizado durante o primeiro semestre da graduação Tecnologia em Banco de Dados
 
   Anualmente ocorrem milhares de registros de acidentes de trânsito no Brasil, gerando um grande impacto na sociedade. Quanto maior o número de acidentes, maiores são os gastos públicos. Esse tema é extremamente relevante e presente em nosso dia-a-dia, onde se faz necessário uma análise para entender a problemática e possivelmente, identificar características através dos dados que possam contribuir para uma diminuição desse número em nosso país. 
